@@ -1,4 +1,7 @@
-### Hi there, I'm Cendy
+# Hi there, I'm Cendy
+```
+  I am a high school student, I myself have a hobby in the field of web development
+```
 
 <h2> What I'm into right now : </h2>
 
