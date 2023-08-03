@@ -1,6 +1,6 @@
 # Hi there, I'm Cendy
 ```
-  I am a high school student, I myself have a hobby in the field of web development
+  Passionate about using my skills to shape a better online world and look forward to contributing my expertise.
 ```
 
 <h2> What I'm into right now : </h2>
