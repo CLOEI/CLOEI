@@ -1,5 +1,6 @@
 ### Hi, I'm Cendy&nbsp;&nbsp;&nbsp;<sup>a Fullstack Developer</sup>
 ----
+I’m always eager to learn and grow. Currently, I’m diving deeper into microservices architecture and exploring PHP. Oh, and did I mention I enjoy sipping a cup of tea while debugging? ☕
 
 Languages & Tools:<br/>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -13,3 +14,6 @@ Languages & Tools:<br/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
