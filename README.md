@@ -19,6 +19,8 @@ Languages & Tools:<br/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-272%20hrs%2049%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
